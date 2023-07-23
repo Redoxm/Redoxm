@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
-**Redoxm/Redoxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+You+Are+Welcome+To+My+Profil;My+Name+Is+Redoxm;I+Passionate+About+Coding)](https://git.io/typing-svg)
+### 
 
 Here are some ideas to get you started:
 
@@ -12,5 +13,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ..
+
+### I am a Software Engineering student at ALX. I learn by doing....
+## 🔭 I’m currently working on my coding skills.
+# 👯 I’m open to collaborate on Software Engineering projects. 
