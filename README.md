@@ -32,6 +32,11 @@ A fun and interactive game built with Flutter, featuring dynamic card gameplay a
 A comprehensive e-commerce platform with features like product listings, cart management, and payment integration.  
 **Tech Stack**: Flutter, Firebase, Node.js  
 
+### 💸 **FinTech Application**  
+A financial app with features like wallet funding, money transfers, and transaction tracking. Designed for performance and user-friendly experiences.  
+**Tech Stack**: Flutter, Node.js, Firebase  
+- **Status**: Ongoing, integrating APIs for seamless functionality.  
+
 ### 📊 **Inventory Management System**  
 A cross-platform app for web and mobile with features like real-time dashboards, vendor management, and automated purchase orders. Includes OCR for invoice data extraction.  
 **Tech Stack**: Flutter, Node.js, MongoDB  
@@ -47,7 +52,7 @@ A cross-platform app for web and mobile with features like real-time dashboards,
 ## 🤝 Open to Collaborate  
 I’m open to working on:  
 - Flutter mobile apps  
-- Backend systems with Node.js  
+- Backend systems with Node.js and also python 
 - API integrations and real-time features  
 
 ---
