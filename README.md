@@ -18,7 +18,7 @@
 </p>
 
 ## 💻 About Me  
-I am a skilled Full-Stack Developer with a focus on Flutter for mobile development and Node.js for backend systems. I have over 2 years of experience delivering responsive, high-quality applications that solve real-world problems. Passionate about clean code, scalability, and creating seamless user experiences.
+I am a skilled Full-Stack Developer with a focus on Flutter for mobile development and python for backend systems. I have over 2 years of experience delivering responsive, high-quality applications that solve real-world problems. Passionate about clean code, scalability, and creating seamless user experiences.
 
 ## 🔧 Skills  
 ### Languages & Frameworks  
